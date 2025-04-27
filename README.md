@@ -15,3 +15,5 @@ To set up this project locally:
 
 
 #Contributors:  Katlego Lesetedi 
+
+Thank you!
